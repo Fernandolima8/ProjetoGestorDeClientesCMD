@@ -1,0 +1,7 @@
+C:\Users\Bruna\source\repos\Projeto Gestor de Clientes CMD\Projeto Gestor de Clientes CMD\bin\Debug\Projeto Gestor de Clientes CMD.exe.config
+C:\Users\Bruna\source\repos\Projeto Gestor de Clientes CMD\Projeto Gestor de Clientes CMD\bin\Debug\Projeto Gestor de Clientes CMD.exe
+C:\Users\Bruna\source\repos\Projeto Gestor de Clientes CMD\Projeto Gestor de Clientes CMD\bin\Debug\Projeto Gestor de Clientes CMD.pdb
+C:\Users\Bruna\source\repos\Projeto Gestor de Clientes CMD\Projeto Gestor de Clientes CMD\obj\Debug\Projeto Gestor de Clientes CMD.csproj.AssemblyReference.cache
+C:\Users\Bruna\source\repos\Projeto Gestor de Clientes CMD\Projeto Gestor de Clientes CMD\obj\Debug\Projeto Gestor de Clientes CMD.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\source\repos\Projeto Gestor de Clientes CMD\Projeto Gestor de Clientes CMD\obj\Debug\Projeto Gestor de Clientes CMD.exe
+C:\Users\Bruna\source\repos\Projeto Gestor de Clientes CMD\Projeto Gestor de Clientes CMD\obj\Debug\Projeto Gestor de Clientes CMD.pdb

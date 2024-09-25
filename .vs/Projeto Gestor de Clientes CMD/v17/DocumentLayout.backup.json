@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruna\\source\\repos\\Projeto Gestor de Clientes CMD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C28560A8-2388-4167-B30F-C7723B853944}|Projeto Gestor de Clientes CMD\\Projeto Gestor de Clientes CMD.csproj|c:\\users\\bruna\\source\\repos\\projeto gestor de clientes cmd\\projeto gestor de clientes cmd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28560A8-2388-4167-B30F-C7723B853944}|Projeto Gestor de Clientes CMD\\Projeto Gestor de Clientes CMD.csproj|solutionrelative:projeto gestor de clientes cmd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruna\\source\\repos\\Projeto Gestor de Clientes CMD\\Projeto Gestor de Clientes CMD\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto Gestor de Clientes CMD\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruna\\source\\repos\\Projeto Gestor de Clientes CMD\\Projeto Gestor de Clientes CMD\\Program.cs*",
+              "RelativeToolTip": "Projeto Gestor de Clientes CMD\\Program.cs*",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwHYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:25:30.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
